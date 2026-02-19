@@ -2,7 +2,6 @@
 
 This repository contains my solution to the HENNGE Engineering Challenge, written in Python. The task processes multiple test cases and computes the sum of the fourth powers of all non-positive integers per case.
 
----
 
 ## 📜 Problem Summary
 
@@ -43,4 +42,5 @@ For each test case:
 Use standard input redirection to run the program:
 
 ```bash
-python main.py < input.txt
+python main.py 
+```
